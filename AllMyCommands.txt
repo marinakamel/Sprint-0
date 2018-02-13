@@ -1,0 +1,27 @@
+a)$git init
+
+b)1-$ git add VersionControl.txt
+  2-$ git add Nutshell.txt
+  3-$ git add DistributedWorkflows.txt
+
+c)$ git rm --cached Nutshell.txt
+
+d)1-$ git reset Nutshell.txt
+  2-$ git add Nutshell.txt
+e)1-$ git config user.email "marinamakram210@gmail.com"
+  2-$ git config user.name "marinakamel"
+  3-$ git commit -m"Files containing sections from a book"
+f)$ git push --set-upstream https://github.com/marinakamel/Sprint-0.git master
+h)$ git branch ReadMe
+i)1-$ git checkout ReadMe
+  2-$ git add README
+j)$ git commit -m "ReadMe"
+git push --set-upstream https://github.com/marinakamel/Sprint-0.git ReadMe
+k)1-$ git checkout master
+  2-$ git merge ReadMe
+
+
+
+
+	
+ 
